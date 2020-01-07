@@ -1,0 +1,386 @@
+{
+    "BARINGO": [
+        "BARINGO CENTRAL",
+        "BARINGO NORTH",
+        "BARINGO SOUTH",
+        "ELDAMA RAVINE",
+        "MOGOTIO",
+        "TIATY"
+    ],
+    "BOMET": [
+        "BOMET CENTRAL",
+        "BOMET EAST",
+        "CHEPALUNGU",
+        "KONOIN",
+        "SOTIK"
+    ],
+    "BUNGOMA": [
+        "BUMULA",
+        "KABUCHAI",
+        "KANDUYI",
+        "KIMILILI",
+        "MT. ELGON",
+        "SIRISIA",
+        "TONGAREN",
+        "WEBUYE EAST",
+        "WEBUYE WEST"
+    ],
+    "BUSIA": [
+        "BUDALANGI",
+        "BUTULA",
+        "FUNYULA",
+        "MATAYOS",
+        "NAMBALE",
+        "TESO NORTH",
+        "TESO SOUTH"
+    ],
+    "ELGEYO MARAKWET": [
+        "KEIYO NORTH",
+        "KEIYO SOUTH",
+        "MAWAKWET EAST",
+        "MARAKWET WEST"
+    ],
+    "EMBU": [
+        "MANYATTA",
+        "MBEERE NORTH",
+        "MBEERE SOUTH",
+        "RUNYENJES"
+    ],
+    "GARISSA": [
+        "BALAMBALA",
+        "DADAAB",
+        "FAFI",
+        "IJARA",
+        "LAGDERA",
+        "GARISSA TOWNSHIP"
+    ],
+    "HOMA BAY": [
+        "HOMA BAY TOWN",
+        "KABONDO KASIPUL",
+        "KARACHUONYO",
+        "KASIPUL",
+        "MBITA",
+        "NDHIWA",
+        "RANGWE",
+        "SUBA"
+    ],
+    "ISIOLO": [
+        "ISIOLO NORTH",
+        "ISIOLO SOUTH"
+    ],
+    "KAJIADO": [
+        "KAJIADO CENTRAL",
+        "KAJIADO EAST",
+        "KAJIADO NORTH",
+        "KAJIADO SOUTH",
+        "KAJIADO WEST"
+    ],
+    "KAKAMEGA": [
+        "BUTERE",
+        "IKOLOMANI",
+        "KHWISERO",
+        "LIKUYANI",
+        "LUGARI",
+        "LURAMBI",
+        "MALAVA",
+        "MATUNGU",
+        "MUMIAS EAST",
+        "MUMIAS WEST",
+        "NAVAKHOLO",
+        "SHINYALU"
+    ],
+    "KERICHO": [
+        "AINAMOI",
+        "BELGUT",
+        "BURETI",
+        "KIPKELION EAST",
+        "KIPKELION WEST",
+        "SIGOWET/SOIN"
+    ],
+    "KIAMBU": [
+        "GATUNDU NORTH",
+        "GATUNDU SOUTH",
+        "GITHUNGURI",
+        "JUJA",
+        "KABETE",
+        "KIAMBAA",
+        "KIAMBU",
+        "KIKUYU",
+        "LARI",
+        "LIMURU",
+        "RUIRU",
+        "THIKA TOWN"
+    ],
+    "KILIFI": [
+        "GANZE",
+        "KALOLENI",
+        "KILIFI NORTH",
+        "KILIFI SOUTH",
+        "MALINDI",
+        "MAGARINI",
+        "RABAI"
+    ],
+    "KIRINYAGA": [
+        "GICHUGU",
+        "KIRINYAGA CENTRAL",
+        "MWEA",
+        "NDIA"
+    ],
+    "KISII": [
+        "BOBASI",
+        "BOMACHOGE BORABU",
+        "BOMACHOGE CHACHE",
+        "BONCHARI",
+        "KITUTU CHACHE NORTH",
+        "KITUTU CHACHE SOUTH",
+        "NYARIBARI CHACHE",
+        "NYARIBARI MASABA",
+        "SOUTH MUGIRANGO"
+    ],
+    "KISUMU": [
+        "KISUMU CENTRAL",
+        "KISUMU EAST",
+        "KISUMU WEST",
+        "MUHORONI",
+        "NYAKACH",
+        "NYANDO",
+        "SEME"
+    ],
+    "KITUI": [
+        "KITUI CENTRAL",
+        "KITUI EAST",
+        "KITUI RURAL",
+        "KITUI SOUTH",
+        "KITUI WEST",
+        "MWINGI CENTRAL",
+        "MWINGI NORTH",
+        "MWINGI WEST"
+    ],
+    "KWALE": [
+        "KINANGO",
+        "LUNGA LUNGA",
+        "MATUGA",
+        "MSAMBWENI"
+    ],
+    "LAIKIPIA": [
+        "LAIKIPIA EAST",
+        "LAIKIPIA NORTH",
+        "LAIKIPIA WEST"
+    ],
+    "LAMU": [
+        "LAMU EAST",
+        "LAMU WEST"
+    ],
+    "MACHAKOS": [
+        "KANGUNDO",
+        "KATHIANI",
+        "MACHAKOS TOWN",
+        "MASINGA",
+        "MATUNGULU",
+        "MAVOKO",
+        "MWALA",
+        "YATTA"
+    ],
+    "MAKUENI": [
+        "KAITI",
+        "KIBWEZI EAST",
+        "KIBWEZI WEST",
+        "KILOME",
+        "MAKUENI",
+        "MBOONI"
+    ],
+    "MANDERA": [
+        "BANISSA",
+        "LAFEY",
+        "MANDERA EAST",
+        "MANDERA NORTH",
+        "MANDERA SOUTH",
+        "MANDERA WEST"
+    ],
+    "MARSABIT": [
+        "LAISAMIS",
+        "MOYALE",
+        "NORTH HORR",
+        "SAKU"
+    ],
+    "MERU": [
+        "BUURI",
+        "IGEMBE CENTRAL",
+        "IGEMBE NORTH",
+        "IGEMBE SOUTH",
+        "CENTRAL IMENTI",
+        "NORTH IMENTI",
+        "SOUTH IMENTI",
+        "TIGANIA EAST",
+        "TIGANIA WEST"
+    ],
+    "MIGORI": [
+        "AWENDO",
+        "KURIA EAST",
+        "KURIA WEST",
+        "NYATIKE",
+        "RONGO",
+        "SUNA EAST",
+        "SUNA WEST",
+        "URIRI"
+    ],
+    "MOMBASA": [
+        "CHANGAMWE",
+        "JOMVU",
+        "KISAUNI",
+        "LIKONI",
+        "MVITA",
+        "NYALI"
+    ],
+    "MURANG'A": [
+        "GATANGA",
+        "KANDARA",
+        "KANGEMA",
+        "KIGUMO",
+        "KIHARU",
+        "MARAGUA",
+        "MATHIOYA"
+    ],
+    "NAIROBI": [
+        "DAGORETTI NORTH",
+        "DAGORETTI SOUTH",
+        "EMBAKASI CENTRAL",
+        "EMBAKASI EAST",
+        "EMBAKASI NORTH",
+        "EMBAKASI SOUTH",
+        "EMBAKASI WEST",
+        "KAMUKUNJI",
+        "KASARANI",
+        "KIBRA",
+        "LANGATA",
+        "MAKADARA",
+        "MATHARE",
+        "ROYSAMBU",
+        "RUARAKA",
+        "STAREHE",
+        "WESTLANDS"
+    ],
+    "NAKURU": [
+        "BAHATI",
+        "GILGIL",
+        "KURESOI NORTH",
+        "KURESOI SOUTH",
+        "MOLO",
+        "NAIVASHA",
+        "NAKURU TOWN EAST",
+        "NAKURU TOWN WEST",
+        "NJORO",
+        "RONGAI",
+        "SUBUKIA"
+    ],
+    "NANDI": [
+        "ALDAI",
+        "CHESUMEI",
+        "EMGWEN",
+        "MOSOP",
+        "NANDI HILLS",
+        "TINDERET"
+    ],
+    "NAROK": [
+        "EMURUA DIKIRR",
+        "KILGORIS",
+        "NAROK EAST",
+        "NAROK NORTH",
+        "NAROK SOUTH",
+        "NAROK WEST"
+    ],
+    "NYAMIRA": [
+        "BORABU",
+        "KITUTU MASABA",
+        "NORTH MUGIRANGO",
+        "WEST MUGIRANGO"
+    ],
+    "NYANDARUA": [
+        "KINANGOP",
+        "KIPIPIRI",
+        "NDARAGWA",
+        "OL JOROK",
+        "OL KALOU"
+    ],
+    "NYERI": [
+        "KIENI",
+        "MATHIRA",
+        "MUKURWEINI",
+        "NYERI TOWN",
+        "OTHAYA",
+        "TETU"
+    ],
+    "SAMBURU": [
+        "SAMBURU EAST",
+        "SAMBURU NORTH",
+        "SAMBURU WEST"
+    ],
+    "SIAYA": [
+        "ALEGO USONGA",
+        "BONDO",
+        "GEM",
+        "RARIEDA",
+        "UGENYA",
+        "UGUNJA"
+    ],
+    "TAITA TAVETA": [
+        "MWATATE",
+        "TAVETA",
+        "VOI",
+        "WUNDANYI"
+    ],
+    "TANA RIVER": [
+        "BURA",
+        "GALOLE",
+        "GARSEN"
+    ],
+    "THARAKA-NITHI": [
+        "CHUKA/IGANMBANG'OMBE",
+        "MAARA",
+        "THARAKA"
+    ],
+    "TRANS NZOIA": [
+        "CHERANGANY",
+        "ENDEBESS",
+        "KIMININI",
+        "KWANZA",
+        "SABOTI"
+    ],
+    "TURKANA": [
+        "LOIMA",
+        "TURKANA CENTRAL",
+        "TURKANA EAST",
+        "TURKANA NORTH",
+        "TURKANA SOUTH",
+        "TURKANA WEST"
+    ],
+    "UASIN GISHU": [
+        "AINABKOI",
+        "KAPSERET",
+        "KESESS",
+        "MOIBEN",
+        "SOY",
+        "TURBO"
+    ],
+    "VIHIGA": [
+        "EMUHAYA",
+        "HAMISI",
+        "LUANDA",
+        "SABATIA",
+        "VIHIGA"
+    ],
+    "WAJIR": [
+        "ELDAS",
+        "TARBAJ",
+        "WAJIR EAST",
+        "WAJIR NORTH",
+        "WAJIR SOUTH",
+        "WAJIR WEST"
+    ],
+    "WEST POKOT": [
+        "KACHELIBA",
+        "KAPENGURIA",
+        "POKOT SOUTH",
+        "SIGOR"
+    ]
+}

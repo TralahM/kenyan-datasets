@@ -20,8 +20,6 @@ research.
 [![TralahM](https://img.shields.io/badge/Engineer-TralahM-blue.svg?style=for-the-badge)](https://github.com/TralahM)
 [![TralahM](https://img.shields.io/badge/Maintainer-TralahM-green.svg?style=for-the-badge)](https://github.com/TralahM)
 
-<iframe src="https://githubbadge.appspot.com/TralahM" style="border: 0;height: 111px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
-
 # Contributing
 Feel free to contribute any interesting datasets about kenya not included here
 
